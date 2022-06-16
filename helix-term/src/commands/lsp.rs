@@ -491,7 +491,7 @@ fn goto_impl(
 
     match locations.as_slice() {
         [location] => {
-            jump_to_location(editor, location, offset_encoding, Action::Replace);
+            jump_to_location(editor, location, offset_encoding, Action::VerticalSplit);
         }
         [] => {
             editor.set_error("No definition found.");
