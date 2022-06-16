@@ -7,11 +7,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa2e0f4-257a-4239-9233-33950f42447c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/helix-loader/src/grammar.rs" beforeDir="false" afterPath="$PROJECT_DIR$/helix-loader/src/grammar.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helix-term/src/application.rs" beforeDir="false" afterPath="$PROJECT_DIR$/helix-term/src/application.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helix-term/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/helix-term/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="caa2e0f4-257a-4239-9233-33950f42447c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +61,7 @@
       <updated>1654306827496</updated>
       <workItem from="1654306830757" duration="10054000" />
       <workItem from="1655251824931" duration="1086000" />
+      <workItem from="1655335797081" duration="854000" />
     </task>
     <servers />
   </component>
